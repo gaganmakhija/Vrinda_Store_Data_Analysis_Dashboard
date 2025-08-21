@@ -29,4 +29,5 @@ The Vrinda Store wants to create an annual sales report for 2024. So that, the o
 - Dashboard Interaction
 
   ## Process
-  
+  <img width="1397" height="606" alt="Dashboard" src="https://github.com/user-attachments/assets/92ad623b-dba4-45f5-ada4-dfa4d5ae1bb1" />
+
